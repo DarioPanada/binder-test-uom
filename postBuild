@@ -1,4 +1,4 @@
 jupyter contrib nbextension install --user
-jupyter nbextension install get_field_extensions/get_field.js --user
+jupyter nbextension install get_field_extension/get_field.js --user
 jupyter nbextension enable get_field --user
 
